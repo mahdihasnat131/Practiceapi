@@ -1,0 +1,24 @@
+.search-bar{
+    width: 50%;
+    height: 30px
+}
+
+.food-img{
+    width:90%;
+}
+.main-container{
+    display: flex;
+    
+}
+.food-nm{
+    font-size:large;
+    font-weight: bold;
+}
+.maincontainerdiv{
+    border: 1px solid gray;
+    padding: 20px;
+    width: 25%;
+    margin: 5px;
+    box-shadow: 2px 2px gray;
+    
+}
