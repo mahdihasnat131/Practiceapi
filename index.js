@@ -30,9 +30,7 @@ const displayMeals=(items)=>{
         })
     
    
-        const NotFound=document.createElement('h1');
-        NotFound.textContent="Data Not Found";
-        Maincontainer.appendChild(NotFound);
+      
     
    
 }
